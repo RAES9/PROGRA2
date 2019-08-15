@@ -1,0 +1,21 @@
+digraph G 
+{
+ node [shape=circle];
+ node [style=filled];
+ node [fillcolor="#EEEEEE"];
+ node [color="#EEEEEE"];
+ edge [color="#31CEF0"];
+50 -> 55;
+50 -> 1;
+1 -> 9;
+1 -> 0;
+0 -> -1;
+55 -> 57;
+55 -> 53;
+57 -> 59;
+57 -> 56;
+59 -> 80;
+53 -> 54;
+53 -> 52;
+rankdir=TP;
+}

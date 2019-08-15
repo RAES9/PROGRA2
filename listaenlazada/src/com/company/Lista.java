@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.ArrayList;
+
 public class Lista {
     private  Nodo primero;
     public void insertar(int valor){

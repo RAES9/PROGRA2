@@ -3,8 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	    ListaDoblementeEnlazada l = new ListaDoblementeEnlazada();
-	    l.insertarFinal(1);
+        ListaDoblementeEnlazada l = new ListaDoblementeEnlazada();
+        l.insertarFinal(1);
         l.insertarFinal(7);
         l.insertarFinal(3);
         l.insertarFinal(10);
